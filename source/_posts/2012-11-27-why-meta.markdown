@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Why Meta"
+date: 2012-11-27
+comments: true
+author: ROhan Kini
+---
+
+A lot of really interesting stuff happens at BumsOnTheSaddle.
+
+This is one way of sharing that as an opinion.
